@@ -26,7 +26,6 @@ class IsometricStrings {
 
     public static void main(String[] args) {
         
-        //{"egg", "add"}, {"foo", "bar"}, {"paper", "title"}, 
         String[][] testCases = {{"egg", "add"}, {"foo", "bar"}, {"paper", "title"}, {"badc", "baba"}};
 
         for (String[] x : testCases) {
